@@ -7,8 +7,8 @@ public class LinkTypes {
 
         System.out.println(a + " " + b);
 
-        String c = 2 + 2 + "";
-        String d = "" + 2 + 2;
+        String c = 2 + 2 + ""; //сначала  сложение, а потом стройчный тип
+        String d = "" + 2 + 2; //все сначала превращается в строчный тип
         String g = "" + (2 + 2);
 
         System.out.println(c);

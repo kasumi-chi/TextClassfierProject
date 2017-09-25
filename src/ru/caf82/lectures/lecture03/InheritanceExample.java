@@ -1,4 +1,4 @@
-package ru.caf82.lectures.lecture03;
+ package ru.caf82.lectures.lecture03;
 
 /**
  * Created by ilysko on 17.09.17.
