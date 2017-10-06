@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ru.caf82.lectures.lecture03;
+package ru.caf82.lectures.lecture02.scheme;
 
 /**
  *
  * @author kasuc
  */
-public class lecture4 {
+public class KNeighboorhoud extends Model{
     
 }
